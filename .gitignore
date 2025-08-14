@@ -1,0 +1,21 @@
+# Datasets
+pest_dataset_final/
+*.zip
+
+# YOLO runs results
+runs/
+
+# Model weights
+*.pt
+
+# Python virtual environment
+pest_env/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
